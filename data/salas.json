@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "PS5 Gaming",
+        "categoria": "consola",
+        "precio": 25,
+        "descripcion": "Disfruta de tus videojuegos favoritos en PlayStation 5.",
+        "imagen": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=800"
+    },
+    {
+        "id": 2,
+        "nombre": "PC Gamer",
+        "categoria": "pc",
+        "precio": 30,
+        "descripcion": "Computadoras gamer para jugar con buen rendimiento.",
+        "imagen": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?w=800"
+    },
+    {
+        "id": 3,
+        "nombre": "Arcade Retro",
+        "categoria": "experiencia",
+        "precio": 15,
+        "descripcion": "Vuelve a disfrutar los juegos clásicos de arcade.",
+        "imagen": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800"
+    },
+    {
+        "id": 4,
+        "nombre": "Realidad Virtual",
+        "categoria": "experiencia",
+        "precio": 35,
+        "descripcion": "Explora nuevas experiencias con realidad virtual.",
+        "imagen": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=800"
+    },
+    {
+        "id": 5,
+        "nombre": "Streaming",
+        "categoria": "pc",
+        "precio": 40,
+        "descripcion": "Un espacio preparado para jugar y transmitir en vivo.",
+        "imagen": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?w=800"
+    }
+]
